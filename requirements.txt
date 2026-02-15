@@ -1,0 +1,7 @@
+cat > requirements.txt << 'EOF'
+pyspark==3.5.0
+pandas==2.1.4
+databricks-sql-connector==3.0.0
+delta-spark==3.0.0
+pytest==7.4.3
+EOF
