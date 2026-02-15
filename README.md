@@ -140,13 +140,6 @@ MIT License - see [LICENSE](LICENSE) file
 
 Contributions welcome! Please open an issue first to discuss changes.
 
-## 📧 Contact
-
-**Your Name**
-- LinkedIn: [your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
-
 ---
 
 ⭐ If you found this project helpful, please give it a star!
